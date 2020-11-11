@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cafcc11e-8533-4fea-907e-75c1dcfa62ec" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/veryEasy/ReturnSomethingToMe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/veryEasy/TheFarmProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/veryEasy/NameGreeting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/veryEasy/ReturnTheFirstElementOfAnArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,9 +51,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
-  <component name="RunManager" selected="Application.TheFarmProblem">
-    <configuration name="LessThan100" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="veryEasy.LessThan100" />
+  <component name="RunManager" selected="Application.NameGreeting">
+    <configuration name="NameGreeting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="veryEasy.NameGreeting" />
       <module name="edabit" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -73,8 +73,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReturnTheRemainderFromTwoNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="veryEasy.ReturnTheRemainderFromTwoNumbers" />
+    <configuration name="ReturnTheFirstElementOfAnArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="veryEasy.ReturnTheFirstElementOfAnArray" />
       <module name="edabit" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -89,11 +89,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NameGreeting" />
+        <item itemvalue="Application.ReturnTheFirstElementOfAnArray" />
         <item itemvalue="Application.TheFarmProblem" />
         <item itemvalue="Application.ReturnSomethingToMe" />
         <item itemvalue="Application.PowerCalculator" />
-        <item itemvalue="Application.LessThan100" />
-        <item itemvalue="Application.ReturnTheRemainderFromTwoNumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -120,22 +120,22 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1605062758998">
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1605135784005">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.-80.1920.1040@0.0.1536.824" timestamp="1605062758998" />
-    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1605062758997">
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.-80.1920.1040@0.0.1536.824" timestamp="1605135784005" />
+    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1605135784005">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824/-1920.-80.1920.1040@0.0.1536.824" timestamp="1605062758997" />
-    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1605062758997">
+    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824/-1920.-80.1920.1040@0.0.1536.824" timestamp="1605135784005" />
+    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1605135784005">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824/-1920.-80.1920.1040@0.0.1536.824" timestamp="1605062758997" />
-    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1605062758997">
+    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824/-1920.-80.1920.1040@0.0.1536.824" timestamp="1605135784005" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1605135784005">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824/-1920.-80.1920.1040@0.0.1536.824" timestamp="1605062758997" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824/-1920.-80.1920.1040@0.0.1536.824" timestamp="1605135784005" />
     <state x="277" y="57" key="SettingsEditor" timestamp="1604965010099">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
