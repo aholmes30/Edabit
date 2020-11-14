@@ -48,7 +48,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
-  <component name="RunManager" selected="Application.NumberOfStickers">
+  <component name="RunManager" selected="Application.SliceOfPie">
     <configuration name="BrokenBridge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="veryEasy.BrokenBridge" />
       <module name="edabit" />
@@ -70,8 +70,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StackTheBoxes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="veryEasy.StackTheBoxes" />
+    <configuration name="SliceOfPie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="veryEasy.SliceOfPie" />
       <module name="edabit" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,11 +86,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SliceOfPie" />
         <item itemvalue="Application.NumberOfStickers" />
         <item itemvalue="Application.WordCharWord" />
         <item itemvalue="Application.IntegerInRange" />
         <item itemvalue="Application.BrokenBridge" />
-        <item itemvalue="Application.StackTheBoxes" />
       </list>
     </recent_temporary>
   </component>
