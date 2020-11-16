@@ -50,7 +50,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
-  <component name="RunManager" selected="Application.FreeCoffeeCups">
+  <component name="RunManager" selected="Application.ReturnLastElementInAnArray">
     <configuration name="CheckStringForSpaces" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="veryEasy.CheckStringForSpaces" />
       <module name="edabit" />
@@ -79,8 +79,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SliceOfPie" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="veryEasy.SliceOfPie" />
+    <configuration name="ReturnLastElementInAnArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="veryEasy.ReturnLastElementInAnArray" />
       <module name="edabit" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,11 +88,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReturnLastElementInAnArray" />
         <item itemvalue="Application.FreeCoffeeCups" />
         <item itemvalue="Application.CheckStringForSpaces" />
         <item itemvalue="Application.GetTheSumOfAllArrayElements" />
         <item itemvalue="Application.RecursionLengthOfAString" />
-        <item itemvalue="Application.SliceOfPie" />
       </list>
     </recent_temporary>
   </component>
