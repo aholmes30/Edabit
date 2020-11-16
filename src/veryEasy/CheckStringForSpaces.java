@@ -2,19 +2,16 @@ package veryEasy;
 
 public class CheckStringForSpaces {
 
-    public static int arraySum(int[] arr) {
-        int sum = 0;
-        for(int i = 0; i < arr.length; i++) {
-            sum = sum + arr[i];
-        }
-        return sum;
+    public static boolean hasSpaces(String str) {
+
+        return str.contains(" ");
     }
+
 
     public static void main(String[] args) {
 
-        int[] arr = {4, 5, 12, 90};
-        System.out.println(arraySum(arr));
-
+        String result = "Happy Holidays, Everyone";
+        System.out.println(hasSpaces(result));
 
     }
 
@@ -23,9 +20,14 @@ public class CheckStringForSpaces {
 
 
 /*
-Create a function that takes an array and returns the sum of all numbers in the array.
+Create a function that returns true if a string contains any spaces.
 Examples
-sum([2, 7, 4]) ➞ 13
-sum([45, 3, 0]) ➞ 48
-sum([-2, 84, 23]) ➞ 105
+hasSpaces("hello") ➞ false
+hasSpaces("hello, world") ➞ true
+hasSpaces(" ") ➞ true
+hasSpaces("") ➞ false
+hasSpaces(",./!@#") ➞ false
+Notes
+An empty string does not contain any spaces.
+Try doing this without RegEx.
  */
