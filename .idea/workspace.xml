@@ -48,7 +48,14 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
-  <component name="RunManager" selected="Application.CaseInsensitiveComparison">
+  <component name="RunManager" selected="Application.BothZeroNegativeOrPositive">
+    <configuration name="BothZeroNegativeOrPositive" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="veryEasy.BothZeroNegativeOrPositive" />
+      <module name="edabit" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CaseInsensitiveComparison" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="veryEasy.CaseInsensitiveComparison" />
       <module name="edabit" />
@@ -70,13 +77,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GetTheSumOfAllArrayElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="veryEasy.GetTheSumOfAllArrayElements" />
-      <module name="edabit" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ReturnLastElementInAnArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="veryEasy.ReturnLastElementInAnArray" />
       <module name="edabit" />
@@ -86,11 +86,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BothZeroNegativeOrPositive" />
         <item itemvalue="Application.CaseInsensitiveComparison" />
         <item itemvalue="Application.ReturnLastElementInAnArray" />
         <item itemvalue="Application.FreeCoffeeCups" />
         <item itemvalue="Application.CheckStringForSpaces" />
-        <item itemvalue="Application.GetTheSumOfAllArrayElements" />
       </list>
     </recent_temporary>
   </component>
