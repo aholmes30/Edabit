@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cafcc11e-8533-4fea-907e-75c1dcfa62ec" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/veryEasy/ReturnStringAsAnInteger.java" afterDir="false" />
-    </list>
+    <list default="true" id="cafcc11e-8533-4fea-907e-75c1dcfa62ec" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +48,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
-  <component name="RunManager" selected="Application.CalculateUsingStringOperation">
+  <component name="RunManager" selected="Application.TestingKKN">
     <configuration name="AddSubtractMultiplyOrDivide" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="veryEasy.AddSubtractMultiplyOrDivide" />
       <module name="edabit" />
@@ -72,13 +70,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CaseInsensitiveComparison" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="veryEasy.CaseInsensitiveComparison" />
-      <module name="edabit" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="IsTheWordSingularOrPlural" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="veryEasy.IsTheWordSingularOrPlural" />
       <module name="edabit" />
@@ -86,13 +77,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestingKKN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="veryEasy.TestingKKN" />
+      <module name="edabit" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestingKKN" />
         <item itemvalue="Application.CalculateUsingStringOperation" />
         <item itemvalue="Application.AddSubtractMultiplyOrDivide" />
         <item itemvalue="Application.IsTheWordSingularOrPlural" />
         <item itemvalue="Application.BothZeroNegativeOrPositive" />
-        <item itemvalue="Application.CaseInsensitiveComparison" />
       </list>
     </recent_temporary>
   </component>
