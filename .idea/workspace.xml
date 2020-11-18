@@ -48,7 +48,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
-  <component name="RunManager" selected="Application.MissingThirdAngle">
+  <component name="RunManager" selected="Application.OnOffSwitches">
     <configuration name="AddSubtractMultiplyOrDivide" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="veryEasy.AddSubtractMultiplyOrDivide" />
       <module name="edabit" />
@@ -63,15 +63,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IsTheWordSingularOrPlural" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="veryEasy.IsTheWordSingularOrPlural" />
+    <configuration name="MissingThirdAngle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="veryEasy.MissingThirdAngle" />
       <module name="edabit" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MissingThirdAngle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="veryEasy.MissingThirdAngle" />
+    <configuration name="OnOffSwitches" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="veryEasy.OnOffSwitches" />
       <module name="edabit" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,11 +86,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OnOffSwitches" />
         <item itemvalue="Application.MissingThirdAngle" />
         <item itemvalue="Application.TestingKKN" />
         <item itemvalue="Application.CalculateUsingStringOperation" />
         <item itemvalue="Application.AddSubtractMultiplyOrDivide" />
-        <item itemvalue="Application.IsTheWordSingularOrPlural" />
       </list>
     </recent_temporary>
   </component>
