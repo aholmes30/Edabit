@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cafcc11e-8533-4fea-907e-75c1dcfa62ec" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/veryEasy/LeapYears.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/veryEasy/ConvertNumberToCorrespondingMonthName.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,9 +50,16 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
-  <component name="RunManager" selected="Application.HowManyDsAreThere">
+  <component name="RunManager" selected="Application.ConvertNumberToCorrespondingMonthName">
     <configuration name="AddAConsecutiveListOfNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="veryEasy.AddAConsecutiveListOfNumbers" />
+      <module name="edabit" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConvertNumberToCorrespondingMonthName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="veryEasy.ConvertNumberToCorrespondingMonthName" />
       <module name="edabit" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -72,13 +79,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OnOffSwitches" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="veryEasy.OnOffSwitches" />
-      <module name="edabit" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="ThePowerOf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="veryEasy.ThePowerOf" />
       <module name="edabit" />
@@ -88,11 +88,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConvertNumberToCorrespondingMonthName" />
         <item itemvalue="Application.HowManyDsAreThere" />
         <item itemvalue="Application.HelloHelloWorldWorld" />
         <item itemvalue="Application.ThePowerOf" />
         <item itemvalue="Application.AddAConsecutiveListOfNumbers" />
-        <item itemvalue="Application.OnOffSwitches" />
       </list>
     </recent_temporary>
   </component>
