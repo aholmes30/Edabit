@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cafcc11e-8533-4fea-907e-75c1dcfa62ec" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/veryEasy/FindTheIndexPart2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/veryEasy/ReturnFirstAndLastElementsInAnArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +50,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
-  <component name="RunManager" selected="Application.FindTheIndexPart2">
+  <component name="RunManager" selected="Application.ReturnFirstAndLastElementsInAnArray">
     <configuration name="AddUpTheNumbersFromASingleNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="veryEasy.AddUpTheNumbersFromASingleNumber" />
       <module name="edabit" />
@@ -79,8 +79,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HowManyDsAreThere" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="veryEasy.HowManyDsAreThere" />
+    <configuration name="ReturnFirstAndLastElementsInAnArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="veryEasy.ReturnFirstAndLastElementsInAnArray" />
       <module name="edabit" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,11 +88,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReturnFirstAndLastElementsInAnArray" />
         <item itemvalue="Application.FindTheIndexPart2" />
         <item itemvalue="Application.FindTheIndexPart1" />
         <item itemvalue="Application.AddUpTheNumbersFromASingleNumber" />
         <item itemvalue="Application.ConvertNumberToCorrespondingMonthName" />
-        <item itemvalue="Application.HowManyDsAreThere" />
       </list>
     </recent_temporary>
   </component>
@@ -124,22 +124,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="449" y="148" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824/-1920.-80.1920.1040@0.0.1536.824" timestamp="1605893515331" />
-    <state width="1502" height="205" key="GridCell.Tab.0.bottom" timestamp="1605979743741">
+    <state width="1502" height="205" key="GridCell.Tab.0.bottom" timestamp="1605979929979">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1502" height="205" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.-80.1920.1040@0.0.1536.824" timestamp="1605979743741" />
-    <state width="1502" height="205" key="GridCell.Tab.0.center" timestamp="1605979743741">
+    <state width="1502" height="205" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.-80.1920.1040@0.0.1536.824" timestamp="1605979929979" />
+    <state width="1502" height="205" key="GridCell.Tab.0.center" timestamp="1605979929979">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1502" height="205" key="GridCell.Tab.0.center/0.0.1536.824/-1920.-80.1920.1040@0.0.1536.824" timestamp="1605979743741" />
-    <state width="1502" height="205" key="GridCell.Tab.0.left" timestamp="1605979743741">
+    <state width="1502" height="205" key="GridCell.Tab.0.center/0.0.1536.824/-1920.-80.1920.1040@0.0.1536.824" timestamp="1605979929979" />
+    <state width="1502" height="205" key="GridCell.Tab.0.left" timestamp="1605979929979">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1502" height="205" key="GridCell.Tab.0.left/0.0.1536.824/-1920.-80.1920.1040@0.0.1536.824" timestamp="1605979743741" />
-    <state width="1502" height="205" key="GridCell.Tab.0.right" timestamp="1605979743741">
+    <state width="1502" height="205" key="GridCell.Tab.0.left/0.0.1536.824/-1920.-80.1920.1040@0.0.1536.824" timestamp="1605979929979" />
+    <state width="1502" height="205" key="GridCell.Tab.0.right" timestamp="1605979929979">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1502" height="205" key="GridCell.Tab.0.right/0.0.1536.824/-1920.-80.1920.1040@0.0.1536.824" timestamp="1605979743741" />
+    <state width="1502" height="205" key="GridCell.Tab.0.right/0.0.1536.824/-1920.-80.1920.1040@0.0.1536.824" timestamp="1605979929979" />
     <state x="277" y="57" key="SettingsEditor" timestamp="1604965010099">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
