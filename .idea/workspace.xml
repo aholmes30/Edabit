@@ -48,7 +48,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
-  <component name="RunManager" selected="Application.AddUpTheNumbersFromASingleNumber">
+  <component name="RunManager" selected="Application.FindTheIndexPart1">
     <configuration name="AddUpTheNumbersFromASingleNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="veryEasy.AddUpTheNumbersFromASingleNumber" />
       <module name="edabit" />
@@ -58,6 +58,13 @@
     </configuration>
     <configuration name="ConvertNumberToCorrespondingMonthName" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="veryEasy.ConvertNumberToCorrespondingMonthName" />
+      <module name="edabit" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindTheIndexPart1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="veryEasy.FindTheIndexPart1" />
       <module name="edabit" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,20 +84,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ThePowerOf" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="veryEasy.ThePowerOf" />
-      <module name="edabit" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindTheIndexPart1" />
         <item itemvalue="Application.AddUpTheNumbersFromASingleNumber" />
         <item itemvalue="Application.ConvertNumberToCorrespondingMonthName" />
         <item itemvalue="Application.HowManyDsAreThere" />
         <item itemvalue="Application.HelloHelloWorldWorld" />
-        <item itemvalue="Application.ThePowerOf" />
       </list>
     </recent_temporary>
   </component>
