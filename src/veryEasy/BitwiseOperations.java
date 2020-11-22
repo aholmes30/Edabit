@@ -3,19 +3,17 @@ package veryEasy;
 public class BitwiseOperations {
 
     public static int bitwiseAND(int n1, int n2) {
-        int result = n1 & n2;
-        return result;
+        return n1 & n2;
     }
 
     public static int bitwiseOR(int n1, int n2) {
-        int result = n1 | n2;
-        return result;
+        return n1 | n2;
     }
 
     public static int bitwiseXOR(int n1, int n2) {
-        int result = n1 ^ n2;
-        return result;
+        return n1 ^ n2;
     }
+
 }
 
 /*
