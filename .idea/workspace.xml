@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cafcc11e-8533-4fea-907e-75c1dcfa62ec" name="Default Changelist" comment="" />
+    <list default="true" id="cafcc11e-8533-4fea-907e-75c1dcfa62ec" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/veryEasy/Burrrrrp.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,9 +50,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
-  <component name="RunManager" selected="Application.WordEndings">
-    <configuration name="FindTheIndexPart2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="veryEasy.FindTheIndexPart2" />
+  <component name="RunManager" selected="Application.MaximumDifference">
+    <configuration name="MaximumDifference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="veryEasy.MaximumDifference" />
       <module name="edabit" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -86,11 +88,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaximumDifference" />
         <item itemvalue="Application.WordEndings" />
         <item itemvalue="Application.MultiplyByLength" />
         <item itemvalue="Application.RecursionSum" />
         <item itemvalue="Application.ReturnFirstAndLastElementsInAnArray" />
-        <item itemvalue="Application.FindTheIndexPart2" />
       </list>
     </recent_temporary>
   </component>
