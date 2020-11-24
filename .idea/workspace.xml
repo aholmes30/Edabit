@@ -50,7 +50,14 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
-  <component name="RunManager" selected="Application.ReturnTheFactorial">
+  <component name="RunManager" selected="Application.CountInstancesOfACharacterInAString">
+    <configuration name="CountInstancesOfACharacterInAString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="veryEasy.CountInstancesOfACharacterInAString" />
+      <module name="edabit" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MaximumDifference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="veryEasy.MaximumDifference" />
       <module name="edabit" />
@@ -60,13 +67,6 @@
     </configuration>
     <configuration name="MultiplyByLength" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="veryEasy.MultiplyByLength" />
-      <module name="edabit" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RecursionSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="veryEasy.RecursionSum" />
       <module name="edabit" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,11 +88,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CountInstancesOfACharacterInAString" />
         <item itemvalue="Application.ReturnTheFactorial" />
         <item itemvalue="Application.MaximumDifference" />
         <item itemvalue="Application.WordEndings" />
         <item itemvalue="Application.MultiplyByLength" />
-        <item itemvalue="Application.RecursionSum" />
       </list>
     </recent_temporary>
   </component>
