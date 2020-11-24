@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cafcc11e-8533-4fea-907e-75c1dcfa62ec" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/veryEasy/CheckFactors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/veryEasy/ReturnTheFactorial.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +50,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
-  <component name="RunManager" selected="Application.MaximumDifference">
+  <component name="RunManager" selected="Application.ReturnTheFactorial">
     <configuration name="MaximumDifference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="veryEasy.MaximumDifference" />
       <module name="edabit" />
@@ -72,8 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReturnFirstAndLastElementsInAnArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="veryEasy.ReturnFirstAndLastElementsInAnArray" />
+    <configuration name="ReturnTheFactorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="veryEasy.ReturnTheFactorial" />
       <module name="edabit" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,11 +88,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReturnTheFactorial" />
         <item itemvalue="Application.MaximumDifference" />
         <item itemvalue="Application.WordEndings" />
         <item itemvalue="Application.MultiplyByLength" />
         <item itemvalue="Application.RecursionSum" />
-        <item itemvalue="Application.ReturnFirstAndLastElementsInAnArray" />
       </list>
     </recent_temporary>
   </component>
