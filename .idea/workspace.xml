@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cafcc11e-8533-4fea-907e-75c1dcfa62ec" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/veryEasy/DateFormat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/veryEasy/LastDigitUltimate.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +50,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
-  <component name="RunManager" selected="Application.ACircleAndTwoSquares">
+  <component name="RunManager" selected="Application.LastDigitUltimate">
     <configuration name="ACircleAndTwoSquares" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="veryEasy.ACircleAndTwoSquares" />
       <module name="edabit" />
@@ -65,8 +65,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaximumDifference" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="veryEasy.MaximumDifference" />
+    <configuration name="LastDigitUltimate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="veryEasy.LastDigitUltimate" />
       <module name="edabit" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,11 +88,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LastDigitUltimate" />
         <item itemvalue="Application.ACircleAndTwoSquares" />
         <item itemvalue="Application.RecursionFactorials" />
         <item itemvalue="Application.CountInstancesOfACharacterInAString" />
         <item itemvalue="Application.ReturnTheFactorial" />
-        <item itemvalue="Application.MaximumDifference" />
       </list>
     </recent_temporary>
   </component>
@@ -144,5 +144,19 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="277" y="57" key="SettingsEditor/0.0.1536.824/-1920.-80.1920.1040@0.0.1536.824" timestamp="1604965010099" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/veryEasy/LastDigitUltimate.java</url>
+          <line>15</line>
+          <properties class="veryEasy.LastDigitUltimate" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
