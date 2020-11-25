@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cafcc11e-8533-4fea-907e-75c1dcfa62ec" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/veryEasy/FindTheIndex.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/veryEasy/RecursionFactorials.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +50,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
-  <component name="RunManager" selected="Application.CountInstancesOfACharacterInAString">
+  <component name="RunManager" selected="Application.RecursionFactorials">
     <configuration name="CountInstancesOfACharacterInAString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="veryEasy.CountInstancesOfACharacterInAString" />
       <module name="edabit" />
@@ -65,8 +65,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MultiplyByLength" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="veryEasy.MultiplyByLength" />
+    <configuration name="RecursionFactorials" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="veryEasy.RecursionFactorials" />
       <module name="edabit" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,11 +88,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RecursionFactorials" />
         <item itemvalue="Application.CountInstancesOfACharacterInAString" />
         <item itemvalue="Application.ReturnTheFactorial" />
         <item itemvalue="Application.MaximumDifference" />
         <item itemvalue="Application.WordEndings" />
-        <item itemvalue="Application.MultiplyByLength" />
       </list>
     </recent_temporary>
   </component>
