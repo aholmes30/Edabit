@@ -50,7 +50,14 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
-  <component name="RunManager" selected="Application.RecursionFactorials">
+  <component name="RunManager" selected="Application.ACircleAndTwoSquares">
+    <configuration name="ACircleAndTwoSquares" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="veryEasy.ACircleAndTwoSquares" />
+      <module name="edabit" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="CountInstancesOfACharacterInAString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="veryEasy.CountInstancesOfACharacterInAString" />
       <module name="edabit" />
@@ -79,20 +86,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WordEndings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="veryEasy.WordEndings" />
-      <module name="edabit" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ACircleAndTwoSquares" />
         <item itemvalue="Application.RecursionFactorials" />
         <item itemvalue="Application.CountInstancesOfACharacterInAString" />
         <item itemvalue="Application.ReturnTheFactorial" />
         <item itemvalue="Application.MaximumDifference" />
-        <item itemvalue="Application.WordEndings" />
       </list>
     </recent_temporary>
   </component>
