@@ -50,7 +50,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
-  <component name="RunManager" selected="Application.LastDigitUltimate">
+  <component name="RunManager" selected="Application.WhereIsBob">
     <configuration name="ACircleAndTwoSquares" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="veryEasy.ACircleAndTwoSquares" />
       <module name="edabit" />
@@ -79,8 +79,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReturnTheFactorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="veryEasy.ReturnTheFactorial" />
+    <configuration name="WhereIsBob" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="veryEasy.WhereIsBob" />
       <module name="edabit" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,11 +88,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.WhereIsBob" />
         <item itemvalue="Application.LastDigitUltimate" />
         <item itemvalue="Application.ACircleAndTwoSquares" />
         <item itemvalue="Application.RecursionFactorials" />
         <item itemvalue="Application.CountInstancesOfACharacterInAString" />
-        <item itemvalue="Application.ReturnTheFactorial" />
       </list>
     </recent_temporary>
   </component>
