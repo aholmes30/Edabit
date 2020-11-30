@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cafcc11e-8533-4fea-907e-75c1dcfa62ec" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/veryEasy/AmazingEdabit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/veryEasy/ReverseAString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,16 +50,9 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
   </component>
-  <component name="RunManager" selected="Application.WhereIsBob">
+  <component name="RunManager" selected="Application.ReverseAString">
     <configuration name="ACircleAndTwoSquares" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="veryEasy.ACircleAndTwoSquares" />
-      <module name="edabit" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CountInstancesOfACharacterInAString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="veryEasy.CountInstancesOfACharacterInAString" />
       <module name="edabit" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -79,6 +72,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ReverseAString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="veryEasy.ReverseAString" />
+      <module name="edabit" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="WhereIsBob" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="veryEasy.WhereIsBob" />
       <module name="edabit" />
@@ -88,11 +88,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReverseAString" />
         <item itemvalue="Application.WhereIsBob" />
         <item itemvalue="Application.LastDigitUltimate" />
         <item itemvalue="Application.ACircleAndTwoSquares" />
         <item itemvalue="Application.RecursionFactorials" />
-        <item itemvalue="Application.CountInstancesOfACharacterInAString" />
       </list>
     </recent_temporary>
   </component>
