@@ -20,6 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cafcc11e-8533-4fea-907e-75c1dcfa62ec" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/veryEasy/CaptureTheRook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/CaptureTheRook.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/veryEasy/ReverseAString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/veryEasy/ReverseAString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
