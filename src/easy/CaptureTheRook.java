@@ -1,4 +1,4 @@
-package veryEasy;
+package easy;
 
 public class CaptureTheRook {
 

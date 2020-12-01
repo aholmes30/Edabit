@@ -9,6 +9,10 @@ public class ReverseAString {
             return str;
         }
 
+        if(str == "") {  //what if string is empty?
+            return str;
+        }
+
         //create temp string
         String temp = "";
 
@@ -21,7 +25,7 @@ public class ReverseAString {
 
     public static void main(String[] args) {
 
-        String str = "Hello World";
+        String str = "";
 
         System.out.println(reverse(str));
     }
