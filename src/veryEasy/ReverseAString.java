@@ -31,3 +31,8 @@ public class ReverseAString {
     }
 
 }
+
+//reverse("hello") --> olleh --> true
+//reverse("nijat") --> nijat --> false
+//reverse("") ---->              true?
+//reverse(null) --->       return null

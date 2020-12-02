@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cafcc11e-8533-4fea-907e-75c1dcfa62ec" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/veryEasy/CaptureTheRook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/CaptureTheRook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/medium/CountDuplicates.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/veryEasy/ReverseAString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/veryEasy/ReverseAString.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,9 +49,14 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Application.ReverseAString">
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="easy" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.CountDuplicates">
     <configuration name="ACircleAndTwoSquares" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="veryEasy.ACircleAndTwoSquares" />
       <module name="edabit" />
@@ -59,15 +64,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LastDigitUltimate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="veryEasy.LastDigitUltimate" />
+    <configuration name="CountDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="medium.CountDuplicates" />
       <module name="edabit" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RecursionFactorials" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="veryEasy.RecursionFactorials" />
+    <configuration name="LastDigitUltimate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="veryEasy.LastDigitUltimate" />
       <module name="edabit" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -89,11 +94,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CountDuplicates" />
         <item itemvalue="Application.ReverseAString" />
         <item itemvalue="Application.WhereIsBob" />
         <item itemvalue="Application.LastDigitUltimate" />
         <item itemvalue="Application.ACircleAndTwoSquares" />
-        <item itemvalue="Application.RecursionFactorials" />
       </list>
     </recent_temporary>
   </component>
@@ -125,30 +130,34 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="449" y="148" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1536.824/-1920.-80.1920.1040@0.0.1536.824" timestamp="1605893515331" />
-    <state width="1501" height="203" key="GridCell.Tab.0.bottom" timestamp="1606662361422">
+    <state x="551" y="307" width="433" height="216" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1606861139175">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1501" height="203" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.-80.1920.1040@0.0.1536.824" timestamp="1606662361422" />
+    <state x="551" y="307" width="433" height="216" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824/-1920.-80.1920.1040@0.0.1536.824" timestamp="1606861139175" />
+    <state width="1502" height="203" key="GridCell.Tab.0.bottom" timestamp="1606863492266">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1502" height="203" key="GridCell.Tab.0.bottom/0.0.1536.824/-1920.-80.1920.1040@0.0.1536.824" timestamp="1606863492266" />
     <state width="1501" height="203" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606526713459" />
-    <state width="1501" height="203" key="GridCell.Tab.0.center" timestamp="1606662361422">
+    <state width="1502" height="203" key="GridCell.Tab.0.center" timestamp="1606863492266">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1501" height="203" key="GridCell.Tab.0.center/0.0.1536.824/-1920.-80.1920.1040@0.0.1536.824" timestamp="1606662361422" />
+    <state width="1502" height="203" key="GridCell.Tab.0.center/0.0.1536.824/-1920.-80.1920.1040@0.0.1536.824" timestamp="1606863492266" />
     <state width="1501" height="203" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606526713459" />
-    <state width="1501" height="203" key="GridCell.Tab.0.left" timestamp="1606662361407">
+    <state width="1502" height="203" key="GridCell.Tab.0.left" timestamp="1606863492266">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1501" height="203" key="GridCell.Tab.0.left/0.0.1536.824/-1920.-80.1920.1040@0.0.1536.824" timestamp="1606662361407" />
+    <state width="1502" height="203" key="GridCell.Tab.0.left/0.0.1536.824/-1920.-80.1920.1040@0.0.1536.824" timestamp="1606863492266" />
     <state width="1501" height="203" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606526713459" />
-    <state width="1501" height="203" key="GridCell.Tab.0.right" timestamp="1606662361422">
+    <state width="1502" height="203" key="GridCell.Tab.0.right" timestamp="1606863492266">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1501" height="203" key="GridCell.Tab.0.right/0.0.1536.824/-1920.-80.1920.1040@0.0.1536.824" timestamp="1606662361422" />
+    <state width="1502" height="203" key="GridCell.Tab.0.right/0.0.1536.824/-1920.-80.1920.1040@0.0.1536.824" timestamp="1606863492266" />
     <state width="1501" height="203" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606526713459" />
-    <state x="277" y="57" key="SettingsEditor" timestamp="1604965010099">
+    <state x="277" y="57" key="SettingsEditor" timestamp="1606870170569">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="277" y="57" key="SettingsEditor/0.0.1536.824/-1920.-80.1920.1040@0.0.1536.824" timestamp="1604965010099" />
+    <state x="277" y="57" key="SettingsEditor/0.0.1536.824/-1920.-80.1920.1040@0.0.1536.824" timestamp="1606870170569" />
     <state x="360" y="73" key="new project wizard" timestamp="1606777600840">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
