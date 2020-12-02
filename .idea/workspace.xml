@@ -20,7 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cafcc11e-8533-4fea-907e-75c1dcfa62ec" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/easy/ConvenienceStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/CheckIfNumberIsPrime.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,9 +55,9 @@
       <recent name="easy" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CountDuplicates">
-    <configuration name="ACircleAndTwoSquares" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="veryEasy.ACircleAndTwoSquares" />
+  <component name="RunManager" selected="Application.CheckIfNumberIsPrime">
+    <configuration name="CheckIfNumberIsPrime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="easy.CheckIfNumberIsPrime" />
       <module name="edabit" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -93,11 +93,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CheckIfNumberIsPrime" />
         <item itemvalue="Application.CountDuplicates" />
         <item itemvalue="Application.ReverseAString" />
         <item itemvalue="Application.WhereIsBob" />
         <item itemvalue="Application.LastDigitUltimate" />
-        <item itemvalue="Application.ACircleAndTwoSquares" />
       </list>
     </recent_temporary>
   </component>
