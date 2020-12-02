@@ -7,7 +7,7 @@ public class CheckIfNumberIsPrime {
         if(num == 1) {
             return false;
         }
-        for(int i = 2; i < num; i++) {
+        for(int i = 2; i < num; i++) {   // num is the dividend (top)
             if(num % i == 0) {          //if whatever num is, modded by i and remainder is 0 (goes into i evenly)
                 return false;
             }
@@ -17,7 +17,9 @@ public class CheckIfNumberIsPrime {
 
     public static void main(String[] args) {
 
-        System.out.println(isPrime(2));
+        System.out.println(isPrime(3));   // true because 3 is only divisble by itself and 1
+        System.out.println(isPrime(4));   // false, 2 goes into 4 evenly
+        System.out.println(isPrime(67));  // true
     }
 }
 
