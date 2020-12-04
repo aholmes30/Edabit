@@ -4,7 +4,7 @@ public class CountDuplicates {
 
     public static int duplicates(String str){
 
-        int countDuplicate = 0;    //set and int variable to 0 to count and keep track of duplicates
+        int countDuplicate = 0;    //set an int variable to 0 to count and keep track of duplicates
 
         for(int i = 0; i < str.length()-1; i++) {  //use a for loop to go through string to count first char
             for(int j = i + 1; j < str.length(); j++) { //use another for loop to go through and compare first char to second
