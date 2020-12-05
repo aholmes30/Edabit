@@ -1,6 +1,6 @@
 package easy;
 
-public class ConcatenatingTwoIntegerArrays
+public class ConcatenatingTwoIntegerArrays {
 
         public static int[] concat(int[] arr1, int[] arr2) {
             // return data: int[]
