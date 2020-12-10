@@ -11,6 +11,12 @@ public class RemoveEveryVowelFromAString {
         return s.replaceAll("[aeiouAEIOU]", "");
 
     }
+
+    public static void main(String[] args) {
+
+
+        System.out.println(removeVowels("Today I have a meeting at one."));
+    }
 }
 
 /*
