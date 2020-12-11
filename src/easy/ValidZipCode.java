@@ -11,6 +11,12 @@ public class ValidZipCode {
         }
         return true;
     }
+
+    public static void main(String[] args) {
+
+        System.out.println(isValid("5432632"));
+        System.out.println(isValid("45678"));
+    }
 }
 
 /*
