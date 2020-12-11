@@ -13,6 +13,11 @@ public class SayHelloSayBye {
         }
         return "Bye" + " " + name2;
     }
+
+    public static void main(String[] args) {
+
+        System.out.println(sayHelloBye("Anna", 1));
+    }
 }
 
 /*
