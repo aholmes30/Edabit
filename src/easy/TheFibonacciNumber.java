@@ -18,6 +18,11 @@ public class TheFibonacciNumber {
         }
         return sum;
     }
+
+    public static void main(String[] args) {
+
+        System.out.println(Fibonacci(2));
+    }
 }
 
 /*
