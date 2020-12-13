@@ -14,6 +14,11 @@ public class AlphabetSoup {
         return result;
     }
 
+    public static void main(String[] args) {
+
+        System.out.println(AlphabetSoup("hi there, how are you?"));
+    }
+
 }
 
 /*
