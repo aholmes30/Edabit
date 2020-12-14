@@ -17,6 +17,12 @@ public class ATMPINCodeValidation {
             return false;
         }
     }
+
+    public static void main(String[] args) {
+
+        System.out.println(validatePIN("543567"));
+        System.out.println(validatePIN("090126"));
+    }
 }
 
 /*
