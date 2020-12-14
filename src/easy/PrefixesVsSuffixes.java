@@ -10,6 +10,7 @@ public class PrefixesVsSuffixes {
         return word.matches(".*" + suffix.replaceAll("-",""));
     }
 
+
 }
 
 /*
