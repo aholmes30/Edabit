@@ -9,6 +9,12 @@ public class ValidVariableNames {
         return true;
     }
 
+    public static void main(String[] args) {
+
+        System.out.println(variableValid("Welcome"));
+        System.out.println(variableValid("&4 J s"));
+    }
+
 }
 
 /*
