@@ -19,6 +19,11 @@ public class AnyPrimeNumberInRange {
         return false;
     }
 
+    public static void main(String[] args) {
+
+        System.out.println(PrimeNumberInRange(27, 80));
+    }
+
 }
 
 /*
