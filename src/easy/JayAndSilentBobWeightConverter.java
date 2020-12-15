@@ -18,6 +18,12 @@ public class JayAndSilentBobWeightConverter {
         return "";
     }
 
+    public static void main(String[] args) {
+
+        System.out.println(jayAndBob("half"));
+        System.out.println(jayAndBob("sixteenth"));
+    }
+
 }
 
 /*
