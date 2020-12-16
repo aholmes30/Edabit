@@ -8,6 +8,11 @@ public class LettersOnly {
         return str.replaceAll("[_;:|!@#\\]\\[$%^&*().\\-~<>'+={}?,`1234567890//]", "");
 
     }
+
+    public static void main(String[] args) {
+
+        System.out.println(lettersOnly("T*w56i#lig@h!t!!"));
+    }
 }
 
 /*
