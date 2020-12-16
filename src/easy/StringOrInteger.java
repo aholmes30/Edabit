@@ -11,6 +11,12 @@ public class StringOrInteger {
 
     }
 
+    public static void main(String[] args) {
+
+        System.out.println(intOrString(23));
+        System.out.println(intOrString("Hi"));
+    }
+
 }
 
 /*
