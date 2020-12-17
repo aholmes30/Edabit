@@ -9,6 +9,11 @@ public class StutteringFunction {
         return word.substring(0,2) + "... " + word.substring(0,2) + "... " + word.substring(0) + "?";
 
     }
+
+    public static void main(String[] args) {
+
+        System.out.println(stutter("Are you okay?"));
+    }
 }
 
 /*
