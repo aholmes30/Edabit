@@ -15,6 +15,10 @@ public class FindTheDiscount {
 
     }
 
+    public static void main(String[] args) {
+        System.out.println(discount(60, 15));
+    }
+
 
 }
 
