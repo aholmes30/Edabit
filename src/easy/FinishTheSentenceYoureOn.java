@@ -7,6 +7,11 @@ public class FinishTheSentenceYoureOn {
         part = part.replaceAll(" ", "");
         return (full.length() - part.length()) / 2;
     }
+
+    public static void main(String[] args) {
+
+        System.out.println(timeToFinish("I need to go to the store to,", "I need to go to the store to get eggs."));
+    }
 }
 
 /*
