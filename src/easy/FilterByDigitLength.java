@@ -18,6 +18,13 @@ public class FilterByDigitLength {
         return arr;
     }
 
+    public static void main(String[] args) {
+
+        int[] numbers = {5, 7, 2, 45, 12, 89, 78};
+
+        System.out.println(filterByLength(numbers, 2));
+    }
+
 }
 
 /*
