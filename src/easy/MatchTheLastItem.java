@@ -5,7 +5,7 @@ public class MatchTheLastItem {
     public static boolean matchLastItem(String[] t) {
 
         String test = "";
-        for(int i = 0; i < t.length - 1; i++){
+        for (int i = 0; i < t.length - 1; i++) {
             test += t[i];
         }
 
