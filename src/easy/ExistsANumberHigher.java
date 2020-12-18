@@ -16,6 +16,13 @@ public class ExistsANumberHigher {
         }
         return false;
     }
+
+    public static void main(String[] args) {
+
+        int[] arr = {8, 56, 3, 4, 12, 67, 45};
+
+        System.out.println(existsHigher(arr, 6));
+    }
 }
 
 /*
