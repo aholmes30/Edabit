@@ -9,6 +9,10 @@ public class GetWordCount {
         //make sure that a string will be split into individ array
         //use the split() method
     }
+
+    public static void main(String[] args) {
+        System.out.println(countWords("Welcome to my home"));
+    }
 }
 
 
