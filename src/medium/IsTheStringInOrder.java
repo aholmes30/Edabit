@@ -1,5 +1,7 @@
 package medium;
 
+import java.util.Arrays;
+
 public class IsTheStringInOrder {
 
     public static boolean isInOrder(String str){
@@ -18,6 +20,11 @@ public class IsTheStringInOrder {
                 return false;
         }
         return true;
+    }
+
+    public static void main(String[] args) {
+
+        System.out.println(isInOrder("Hello World"));
     }
 }
 
