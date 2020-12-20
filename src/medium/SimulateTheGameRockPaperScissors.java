@@ -15,6 +15,11 @@ public class SimulateTheGameRockPaperScissors {
         return "Player 2 wins";
     }
 
+    public static void main(String[] args) {
+
+        System.out.println(rps("rock", "paper"));
+    }
+
 
 }
 
