@@ -1,5 +1,7 @@
 package easy;
 
+import org.w3c.dom.ls.LSOutput;
+
 public class FruitJuices {
 
     public static String getDrinkID(String flavor, String ml) {
@@ -9,6 +11,11 @@ public class FruitJuices {
             newStr+= s.toUpperCase().substring(0,3);
         }
         return newStr+ml.replaceAll("ml","");
+    }
+
+
+    public static void main(String[] args) {
+        System.out.println(getDrinkID("pineapple", "70ml"));
     }
 
 
