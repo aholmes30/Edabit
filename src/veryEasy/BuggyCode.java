@@ -5,7 +5,14 @@ public class BuggyCode {
     public static String greeting(String name) {
         if(name == "Mubashir") {
             return "Hello, my Love!";
-        }return "Hello, " + name + "!";
+        }
+        return "Hello, " + name + "!";
+    }
+
+    public static void main(String[] args) {
+
+        System.out.println(greeting("Anna"));
+        System.out.println(greeting("Mubashir"));
     }
 }
 
