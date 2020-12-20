@@ -13,6 +13,13 @@ public class CheckFactors {
 
     }
 
+    public static void main(String[] args) {
+
+        int[] factors = {8, 4, 2, 3, 1, 5,} ;
+
+        System.out.println(checkFactors(factors, 5));
+    }
+
 }
 
 /*
