@@ -17,6 +17,13 @@ public class RecursionArraySum {
         return resultSum;
     }
 
+    public static void main(String[] args) {
+
+
+        int[] arr = {4, 6, 2};
+        System.out.println(sum(arr));
+    }
+
 }
 
 /*
