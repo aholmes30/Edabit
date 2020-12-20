@@ -15,6 +15,11 @@ public class Switcharoo {
         newWord = newWord + s.substring(0, 1);
         return newWord;
     }
+
+    public static void main(String[] args) {
+
+        System.out.println(flipEndChars("Hello everyone"));
+    }
 }
 
 /*
