@@ -23,6 +23,11 @@ public class WarOfNumbers {
         return even - odd;
     }
 
+    public static void main(String[] args) {
+
+        int[] num = {6, 4, 23, 55, 12, 11};
+        System.out.println(warOfNumbers(num));
+    }
 }
 
 /*
