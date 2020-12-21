@@ -10,6 +10,12 @@ public class Burrrrrp {
             return "Bu" + a + "p";
         }
 
+    public static void main(String[] args) {
+
+        System.out.println(longBurp(6));
+        System.out.println(longBurp(4));
+    }
+
 }
 
 /*
