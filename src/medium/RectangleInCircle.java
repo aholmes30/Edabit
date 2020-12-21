@@ -6,6 +6,11 @@ public class RectangleInCircle {
         return (w*w+h*h) < (4*r*r);
     }
 
+    public static void main(String[] args) {
+
+        System.out.println(rectangleInCircle(5, 6, 3));
+    }
+
 
 }
 
