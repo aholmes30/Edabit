@@ -17,6 +17,10 @@ public class ChangeEveryLetterToTheNextLetter {
             return result;
         }
 
+    public static void main(String[] args) {
+
+        System.out.println(move("Hello Anna Banana"));
+    }
 
 }
 
