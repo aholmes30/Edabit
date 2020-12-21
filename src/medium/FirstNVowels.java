@@ -20,6 +20,11 @@ public class FirstNVowels {
         return result.substring(0, n);
     }
 
+    public static void main(String[] args) {
+
+        System.out.println(firstNVowels("There is a wasp in the house", 5));
+    }
+
 }
 
 /*
