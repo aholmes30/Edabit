@@ -22,6 +22,12 @@ public class WeeklySalary {
         return salary;
     }
 
+    public static void main(String[] args) {
+
+        int[] hours = {8, 8, 9, 12};
+        System.out.println(WeeklySalary(hours));
+    }
+
 }
 
 /*
