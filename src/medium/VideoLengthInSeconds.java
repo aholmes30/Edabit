@@ -17,6 +17,11 @@ public class VideoLengthInSeconds {
         return answer;
     }
 
+    public static void main(String[] args) {
+
+        System.out.println(minutesToSeconds("16:05"));
+    }
+
 }
 
 /*
