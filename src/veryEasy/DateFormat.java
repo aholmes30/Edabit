@@ -6,6 +6,11 @@ public class DateFormat {
         String part[] = date.split("/");
         return part[2] + part[1] + part[0];
     }
+
+    public static void main(String[] args) {
+
+        System.out.println(formatDate("01/30/1990"));
+    }
 }
 
 /*
