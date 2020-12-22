@@ -20,6 +20,11 @@ public class ReverseTheCase {
         return new String(chars);
     }
 
+    public static void main(String[] args) {
+
+        System.out.println(reverseCase("heLLo"));
+    }
+
 }
 
 /*
