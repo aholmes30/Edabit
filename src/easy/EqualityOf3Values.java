@@ -13,6 +13,12 @@ public class EqualityOf3Values {
         return 0;
     }
 
+    public static void main(String[] args) {
+
+        System.out.println(equal(4, 2, 1));
+        System.out.println(equal(5, 5, 2));
+    }
+
 
 }
 
