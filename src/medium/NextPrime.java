@@ -13,6 +13,11 @@ public class NextPrime {
         return 0;
     }
 
+    public static void main(String[] args) {
+
+        System.out.println(nextPrime(24));
+    }
+
 
 }
 
