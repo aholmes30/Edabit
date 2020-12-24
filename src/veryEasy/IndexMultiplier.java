@@ -14,6 +14,13 @@ public class IndexMultiplier {
             return sum;
         }
 
+    public static void main(String[] args) {
+
+        int[] arr = {5, 3, 1, 5, 7, 1};
+
+        System.out.println(indexMultiplier(arr));
+    }
+
 }
 
 /*
