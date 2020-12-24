@@ -6,6 +6,12 @@ public class InvertColors {
         int[] ans = new int[]{255 - rgb[0], 255 - rgb[1], 255 - rgb[2] };
         return ans;
     }
+
+    public static void main(String[] args) {
+
+        int[] rgb = {0, 0 , 0};
+        System.out.println(invertColor(rgb));
+    }
 }
 
 /*
