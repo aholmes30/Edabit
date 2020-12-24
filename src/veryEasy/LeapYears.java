@@ -9,6 +9,11 @@ public class LeapYears {
         return false;
     }
 
+    public static void main(String[] args) {
+
+        System.out.println(isLeap(2020));
+    }
+
 }
 
 
