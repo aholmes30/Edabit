@@ -11,6 +11,11 @@ public class OwoifiedSentence {
         return replace + addedWord;
 
     }
+
+    public static void main(String[] args) {
+
+        System.out.println(owofied("Hello, I like owls."));
+    }
 }
 
 /*
