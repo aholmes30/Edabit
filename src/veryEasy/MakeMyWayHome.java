@@ -10,6 +10,12 @@ public class MakeMyWayHome {
         }
         return Math.abs(sum);
     }
+
+    public static void main(String[] args) {
+
+        int[] dist = {5, 7, 1, 3};
+        System.out.println(distanceHome(dist));
+    }
 }
 
 /*
