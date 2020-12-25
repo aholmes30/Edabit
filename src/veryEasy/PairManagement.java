@@ -5,6 +5,12 @@ public class PairManagement {
         return new int[] {a, b};
     }
 
+    public static void main(String[] args) {
+
+
+        System.out.println(makePair(8, 9));
+    }
+
 }
 
 /*
