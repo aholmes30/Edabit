@@ -9,6 +9,12 @@ public class MultiplyByLength {
             return arr;
     }
 
+    public static void main(String[] args) {
+
+        int[] arr = {4, 3, 1, 6, 9};
+        System.out.println(MultiplyByLength(arr));
+    }
+
 }
 
 /*
