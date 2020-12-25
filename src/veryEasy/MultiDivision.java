@@ -5,6 +5,11 @@ public class MultiDivision {
     return a % c == 0;
 }
 
+    public static void main(String[] args) {
+
+        System.out.println(abcmath(4, 1, 5));
+    }
+
 }
 
 /*
