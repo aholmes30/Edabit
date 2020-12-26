@@ -10,6 +10,12 @@ public class ReturnFirstAndLastElementsInAnArray {
         return result;
     }
 
+    public static void main(String[] args) {
+
+        String[] arr = {"Hello", "World"};
+        System.out.println(firstLast(arr));
+    }
+
 }
 
 
