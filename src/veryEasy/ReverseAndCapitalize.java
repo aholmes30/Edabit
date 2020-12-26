@@ -8,6 +8,11 @@ public class ReverseAndCapitalize {
         }
         return s;
     }
+
+    public static void main(String[] args) {
+
+        System.out.println(reverseCapitalize("aaaD"));
+    }
 }
 
 /*
