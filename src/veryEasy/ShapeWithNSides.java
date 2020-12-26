@@ -42,6 +42,11 @@ public class ShapeWithNSides {
         }
         return shapeSide;
     }
+
+    public static void main(String[] args) {
+
+        System.out.println(nSidedShape(6));
+    }
 }
 
 /*
