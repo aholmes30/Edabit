@@ -8,6 +8,13 @@ public class ReverseCodingChallenge3 {
         }
         return arr;
     }
+
+    public static void main(String[] args) {
+
+        int[] arr = {5, 2, 1, 6, 7};
+
+        System.out.println(mysteryFunc(arr, 8));
+    }
 }
 
 /*
