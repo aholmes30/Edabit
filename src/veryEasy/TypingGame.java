@@ -14,6 +14,13 @@ public class TypingGame {
         return arr;
     }
 
+    public static void main(String[] args) {
+
+        String[] user = {"it", "is", "find"};
+        String[] correct = {"it", "is", "find"};
+        System.out.println(correctStream(user, correct));
+    }
+
 }
 
 /*
