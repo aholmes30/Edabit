@@ -9,6 +9,12 @@ public class AbsoluteSum {
         }
         return sum;
     }
+
+    public static void main(String[] args) {
+
+        int[] nums = {2, -1, 4, 8, 10};
+        System.out.println(getAbsSum(nums));
+    }
 }
 
 /*
