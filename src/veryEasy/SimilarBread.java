@@ -11,6 +11,13 @@ public class SimilarBread {
         }
         return false;
     }
+
+    public static void main(String[] args) {
+
+        String[] a = {"rye bread", "swiss cheese", "rye bread"};
+        String[] b = {"wheat bread", "ham", "wheat bread"};
+        System.out.println(hasSameBread(a, b));
+    }
 }
 
 /*
