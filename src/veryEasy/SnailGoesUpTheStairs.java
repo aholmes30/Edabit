@@ -5,6 +5,11 @@ public class SnailGoesUpTheStairs {
     return (tower / height)*(height + length);
 }
 
+    public static void main(String[] args) {
+
+        System.out.println(TotalDistance(5.3, 1.2, 3.9));
+    }
+
 }
 
 /*
