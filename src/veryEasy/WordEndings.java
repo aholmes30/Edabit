@@ -12,6 +12,13 @@ public class WordEndings {
         return result;
     }
 
+    public static void main(String[] args) {
+
+        String[] arr = {"clever", "meek", "hurried", "nice"};
+        String ending = "ly";
+        System.out.println(addEnding(arr, ending));
+    }
+
 
 }
 
