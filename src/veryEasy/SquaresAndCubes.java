@@ -5,6 +5,12 @@ public class SquaresAndCubes {
     public static boolean squaresAndCubes(int[] arr) {
         return (Math.sqrt(arr[0]) * arr[0] == arr[1]);
     }
+
+    public static void main(String[] args) {
+
+        int[] arr = {9, 27};
+        System.out.println(squaresAndCubes(arr));
+    }
 }
 
 /*
