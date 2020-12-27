@@ -8,6 +8,11 @@ public class TrueOnesFalseZeroes {
             output[i] = bits.substring(i, i + 1).equals("1");
         return output;
     }
+
+    public static void main(String[] args) {
+
+        System.out.println(integerBoolean("001"));
+    }
 }
 
 /*
