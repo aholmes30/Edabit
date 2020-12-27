@@ -7,6 +7,12 @@ public class AdditiveInverse {
     }
 		return arr;
    }
+
+    public static void main(String[] args) {
+
+        int[] arr = {-5, -25, 35};
+        System.out.println(additiveInverse(arr));
+    }
 }
 
 /*
