@@ -19,6 +19,12 @@ public class SpecialArrays {
 
     }
 
+    public static void main(String[] args) {
+
+        int[] arr = {2, 4, 6, 6};
+        System.out.println(isSpecialArray(arr));
+    }
+
 }
 
 /*
