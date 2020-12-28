@@ -15,6 +15,12 @@ public class ShuffleTheName {
         return result;
 
     }
+
+    public static void main(String[] args) {
+
+        System.out.println(nameShuffle("Joe Biden"));
+
+    }
 }
 
 /*
