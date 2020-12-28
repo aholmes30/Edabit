@@ -13,6 +13,11 @@ public class SameASCII {
         }
         return sum1 == sum2;
     }
+
+    public static void main(String[] args) {
+
+        System.out.println(sameAscii("a", "a"));
+    }
 }
 
 /*
