@@ -12,6 +12,11 @@ public class SolveExponentialEquationsWithLogarithms {
         return 0;
     }
 
+    public static void main(String[] args) {
+
+        System.out.println(solveForExp(4, 1024));
+    }
+
 }
 
 /*
