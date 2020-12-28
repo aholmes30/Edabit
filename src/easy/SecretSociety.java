@@ -14,6 +14,12 @@ public class SecretSociety {
             }
             return s;
         }
+
+    public static void main(String[] args) {
+
+            String[] friends = {"Adam", "Jessica", "Adrian", "Same"};
+        System.out.println(societyName(friends));
+    }
 }
 
 /*
