@@ -8,6 +8,11 @@ public class AmazingEdabit {
             }
             else return str.replace("amazing", "not amazing");
         }
+
+    public static void main(String[] args) {
+
+        System.out.println(amazingEdabit("Snow is amazing"));
+    }
     }
 
     /*
