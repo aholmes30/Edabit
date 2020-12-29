@@ -9,6 +9,11 @@ public class The3ProgrammersProblem {
             Arrays.sort(arr);               //sort the array with Arrrays.sort method
             return arr[2] - arr[0];        //return the highest int minus the lowest
         }
+
+    public static void main(String[] args) {
+
+        System.out.println(programmers(3, 6, 9));
+    }
 }
 
 /*
