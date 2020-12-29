@@ -16,6 +16,11 @@ public class StrangePair {
 
         return false;
     }
+
+    public static void main(String[] args) {
+
+        System.out.println(isStrangePair("sparkling", "groups"));
+    }
 }
 
 /*
