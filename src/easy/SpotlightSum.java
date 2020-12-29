@@ -6,6 +6,11 @@ public class SpotlightSum {
         return n*9;
     }
 
+    public static void main(String[] args) {
+
+        System.out.println(spotlightSum(7));
+    }
+
 }
 
 /*
