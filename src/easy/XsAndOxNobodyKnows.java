@@ -18,6 +18,11 @@ public class XsAndOxNobodyKnows {
 
             return x == o;
         }
+
+    public static void main(String[] args) {
+
+        System.out.println(getXO("xoxoxoxox"));
+    }
     }
 
 
