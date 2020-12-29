@@ -8,6 +8,11 @@ public class TriangularNumberSequence {
 
 
     }
+
+    public static void main(String[] args) {
+
+        System.out.println(triangle(8));
+    }
 }
 
 
