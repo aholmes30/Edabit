@@ -10,6 +10,13 @@ public class CheckIfAnArrayContainsAGivenNumber {
         }
         return false;
     }
+
+    public static void main(String[] args) {
+
+        int[] arr = {1, 1, 1, 1, 1};
+        int el = 3;
+        System.out.println(check(arr, el));
+    }
 }
 /*
 Write a function to check if an array contains a particular number.
