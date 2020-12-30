@@ -10,7 +10,11 @@ public class CharacterInShapes {
         return sum;
     }
 
+    public static void main(String[] args) {
 
+        String[] arr = {"&&&"};
+        System.out.println(countCharacters(arr));
+    }
 }
 
 /*
