@@ -11,6 +11,11 @@ public class Edaaaaabit {
         return edabit;
     }
 
+    public static void main(String[] args) {
+
+        System.out.println(howManyTimes(5));
+    }
+
 }
 
 /*
