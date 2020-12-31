@@ -9,6 +9,11 @@ public class FindingNemo {
                 return "I found Nemo at "+(i+1)+"!";
         return "I can't find Nemo :(";
     }
+
+    public static void main(String[] args) {
+
+        System.out.println(findNemo("Nemo is not here"));
+    }
 }
 
 /*
