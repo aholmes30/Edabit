@@ -14,6 +14,13 @@ public class FindTheLargestNumberInAnArray {
         return max;
     }
 
+    public static void main(String[] args) {
+
+        int[] nums = {900, 5000, 40000};
+
+        System.out.println(findLargestNum(nums));
+    }
+
 }
 
 /*
