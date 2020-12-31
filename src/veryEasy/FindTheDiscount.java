@@ -14,6 +14,10 @@ public class FindTheDiscount {
         //divide by 100 to round two decimal places
 
     }
+
+    public static void main(String[] args) {
+        System.out.println(discount(150, 75));
+    }
 }
 
 /*
