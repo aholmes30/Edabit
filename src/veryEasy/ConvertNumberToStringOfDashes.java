@@ -10,6 +10,11 @@ public class ConvertNumberToStringOfDashes {
         return str;
     }
 
+    public static void main(String[] args) {
+
+        System.out.println(Go(6));
+    }
+
 }
 
 /*
