@@ -11,6 +11,13 @@ public class FindTheIndex {
 
     }
 
+    public static void main(String[] args) {
+
+        String[] arr = {"cats", "parrots", "cats", "rabbits"};
+        String str = "rabbits";
+        System.out.println(findIndex(arr, str));
+    }
+
 }
 
 /*
