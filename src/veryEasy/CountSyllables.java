@@ -6,6 +6,11 @@ public class CountSyllables {
         String[] syl = word.split("-");
         return syl.length;
     }
+
+    public static void main(String[] args) {
+
+        System.out.println(numberSyllables("ap-ple"));
+    }
 }
 
 /*
