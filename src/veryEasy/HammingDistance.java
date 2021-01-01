@@ -16,6 +16,11 @@ public class HammingDistance {
         }
         return misMatchcount;
     }
+
+    public static void main(String[] args) {
+
+        System.out.println(hammingDistance("strong", "strung"));
+    }
 }
 
 
