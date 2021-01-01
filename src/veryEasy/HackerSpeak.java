@@ -9,6 +9,11 @@ public class HackerSpeak {
         String replace = str.replace("a", "4").replace("e", "3").replace("i", "1").replace("o", "0").replace("s", "5");
         return replace;
     }
+
+    public static void main(String[] args) {
+
+        System.out.println(hackerSpeak("Java is so hard"));
+    }
 }
 
 /*
