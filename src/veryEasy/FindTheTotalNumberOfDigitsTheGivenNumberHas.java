@@ -18,6 +18,11 @@ public class FindTheTotalNumberOfDigitsTheGivenNumberHas {
 
     }
 
+    public static void main(String[] args) {
+
+        System.out.println(findDigitAmount(6));
+    }
+
 }
 
 /*
