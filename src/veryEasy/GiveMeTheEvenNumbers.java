@@ -5,9 +5,14 @@ public class GiveMeTheEvenNumbers {
     public static int sumEvenNumsInRange(int start, int stop) {
         int out=0;
         for(int i=start;i<=stop;i++) {
-            if(i%2==0) out += i;
+            if( i%2 == 0) out += i;
         }
         return out;
+    }
+
+    public static void main(String[] args) {
+
+        System.out.println(sumEvenNumsInRange(5, 10));
     }
 }
 
