@@ -11,6 +11,12 @@ public class HittingtheJackpot {
         return true;
     }
 
+    public static void main(String[] args) {
+
+        String[] result = {"&&", "&", "&&&", "&&&&"};
+        System.out.println(testJackpot(result));
+    }
+
 
 }
 
