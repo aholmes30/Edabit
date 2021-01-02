@@ -12,6 +12,11 @@ public class HotPicsOfDannyDeVito {
         return result;
     }
 
+    public static void main(String[] args) {
+
+        System.out.println(preventDistractions("Hot pictures of Danny DeVito"));
+    }
+
 }
 
 /*
