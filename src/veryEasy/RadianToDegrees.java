@@ -5,6 +5,11 @@ public class RadianToDegrees {
     public static double to_degree(double num) {
         return num * 180 / Math.PI;
     }
+
+    public static void main(String[] args) {
+
+        System.out.println(to_degree(6));
+    }
 }
 
 /*
