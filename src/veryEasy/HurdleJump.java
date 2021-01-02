@@ -16,6 +16,13 @@ public class HurdleJump {
 			return false;
 }
 
+    public static void main(String[] args) {
+
+        int[] hurdles = {5, 5, 3, 4, 5};
+        int num = 3;
+        System.out.println(hurdleJump(hurdles, num));
+    }
+
 }
 
 
